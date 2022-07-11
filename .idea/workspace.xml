@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d01a4-6f5a-4c0b-a9d4-be434987c1d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kata/kutushkin/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kata/kutushkin/Calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
